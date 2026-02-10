@@ -1,0 +1,6 @@
+@AspSqlProject_HostAddress = http://localhost:5129
+
+GET {{AspSqlProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
